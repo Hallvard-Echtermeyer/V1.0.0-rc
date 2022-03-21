@@ -1,0 +1,21 @@
+=============== Mar 21, 2022 (CET) ===============
+13:09:00.219005 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:09:00.220845 db@open opening
+13:09:00.221021 version@stat F·[] S·0B[] Sc·[]
+13:09:00.221701 db@janitor F·2 G·0
+13:09:00.221711 db@open done T·856.411µs
+13:11:12.228305 memdb@flush N·3 S·3MiB
+13:11:12.234730 memdb@flush created L0@3 N·3 S·172KiB "blo..ter,v3":"blo..ter,v1"
+13:11:12.234755 version@stat F·[1] S·172KiB[172KiB] Sc·[0.25]
+13:11:12.235765 memdb@flush committed F·1 T·7.399524ms
+13:11:12.236216 journal@remove removed @1
+13:13:40.725274 memdb@flush N·3 S·3MiB
+13:13:40.727562 memdb@flush created L0@5 N·3 S·172KiB "blo..ter,v6":"blo..ter,v4"
+13:13:40.727583 version@stat F·[2] S·344KiB[344KiB] Sc·[0.50]
+13:13:40.728300 memdb@flush committed F·1 T·3.005805ms
+13:13:40.728704 journal@remove removed @2
+13:13:42.229239 memdb@flush N·3 S·3MiB
+13:13:42.231365 memdb@flush created L0@7 N·3 S·172KiB "blo..ter,v9":"blo..ter,v7"
+13:13:42.231387 version@stat F·[3] S·516KiB[516KiB] Sc·[0.75]
+13:13:42.232335 memdb@flush committed F·1 T·3.079469ms
+13:13:42.232794 journal@remove removed @4

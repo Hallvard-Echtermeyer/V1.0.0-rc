@@ -1,0 +1,50 @@
+{"count":0,"hash":"eb10a0...900e4d","height":1,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:09:00+01:00"}
+{"level":"info","module":"app","msg":"Initialize genesis","time":"2022-03-21T13:09:00+01:00"}
+{"level":"info","module":"api","msg":"GRPC service started","port":60011,"time":"2022-03-21T13:09:00+01:00"}
+{"hash":"eb10a0...900e4d","height":1,"level":"info","module":"executor","msg":"Executor started","time":"2022-03-21T13:09:00+01:00"}
+{"level":"info","module":"router","msg":"Router module started","time":"2022-03-21T13:09:00+01:00"}
+{"level":"info","module":"app","msg":"Order is ready","plugin_path":"plugins/solo.so","time":"2022-03-21T13:09:00+01:00"}
+{"id":"0x58504f4a246d9c72a3c0e15822101bfea66cb7aa","level":"info","module":"router","msg":"Add pier","time":"2022-03-21T13:09:40+01:00"}
+{"count":1,"height":2,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:11:10+01:00"}
+{"count":1,"height":2,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:11:10+01:00"}
+{"id":"0x1e5f7b5867cb859968beebd21b648d9b7e4d4ed7","level":"info","module":"executor","msg":"Appchain register successfully","time":"2022-03-21T13:11:10+01:00"}
+{"count":1,"hash":"75bb62...a2ee16","height":2,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:11:10+01:00"}
+{"count":1,"height":3,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"height":3,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"hash":"94c9ea...184a3b","height":3,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"height":4,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"height":4,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"hash":"167439...2732d9","height":4,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:11:11+01:00"}
+{"count":1,"height":5,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:11:12+01:00"}
+{"count":1,"height":5,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:11:12+01:00"}
+{"count":1,"hash":"800677...79b09f","height":5,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:11:12+01:00"}
+{"count":1,"height":6,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:11:12+01:00"}
+{"count":1,"height":6,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:11:12+01:00"}
+{"count":1,"hash":"520fb9...4e3cc6","height":6,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:11:12+01:00"}
+{"id":"0x1e5f7b5867cb859968beebd21b648d9b7e4d4ed7","level":"info","module":"router","msg":"Add pier","time":"2022-03-21T13:11:15+01:00"}
+{"count":1,"height":7,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"height":7,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:13:40+01:00"}
+{"id":"0x7646dfe5a79721426aefca2c325f9cfa2635b118","level":"info","module":"executor","msg":"Appchain register successfully","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"hash":"d434d0...9801f1","height":7,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"height":8,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"height":8,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"hash":"501ab0...85ed48","height":8,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:13:40+01:00"}
+{"count":1,"height":9,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"height":9,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"hash":"c91993...1f7dd4","height":9,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"height":10,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"height":10,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"hash":"f163b0...3db3e1","height":10,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:13:41+01:00"}
+{"hash":"f163b0...3db3e1","height":10,"level":"info","module":"order","msg":"Report checkpoint","time":"2022-03-21T13:13:41+01:00"}
+{"count":1,"height":11,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:13:42+01:00"}
+{"count":1,"height":11,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:13:42+01:00"}
+{"count":1,"hash":"c01286...bf3fe2","height":11,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:13:42+01:00"}
+{"id":"0x7646dfe5a79721426aefca2c325f9cfa2635b118","level":"info","module":"router","msg":"Add pier","time":"2022-03-21T13:13:44+01:00"}
+{"count":1,"height":12,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:17:24+01:00"}
+{"count":1,"height":12,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:17:24+01:00"}
+{"chain_id":"0x7646DFE5a79721426AEFCA2c325f9CFA2635b118","level":"warning","module":"executor","msg":"target appchain does not exist","time":"2022-03-21T13:17:24+01:00"}
+{"count":1,"hash":"f52355...3ea173","height":12,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:17:24+01:00"}
+{"count":1,"height":13,"level":"info","module":"app","msg":"Generate block","time":"2022-03-21T13:20:51+01:00"}
+{"count":1,"height":13,"level":"info","module":"executor","msg":"Execute block","time":"2022-03-21T13:20:51+01:00"}
+{"chain_id":"0x7646DFE5a79721426AEFCA2c325f9CFA2635b118","level":"warning","module":"executor","msg":"target appchain does not exist","time":"2022-03-21T13:20:51+01:00"}
+{"count":1,"hash":"409f7f...90dd3f","height":13,"level":"info","module":"executor","msg":"Persist block","time":"2022-03-21T13:20:51+01:00"}

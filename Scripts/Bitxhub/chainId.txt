@@ -1,0 +1,1 @@
+appchain register successfully, id is 0x7646dfe5a79721426aefca2c325f9cfa2635b118

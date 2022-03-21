@@ -1,0 +1,7 @@
+[Ether]
+addr = "wss://rinkeby.infura.io/ws/v3/731722c66a504aa6bcc25135f3dfc3f9"
+name = "SecondEthereum"
+contract_address = "0xD0E1B0d7D04CA60F11Ab3C58b7782B2379fa9090"
+abi_path = "broker.abi"
+key_path = "account.key"
+password = "password"

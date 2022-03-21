@@ -1,0 +1,78 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Migrations dry-run (simulation)
+===============================
+> Network name:    'rinkeby-fork'
+> Network id:      4
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+4_swapper.js
+============
+
+   Deploying 'DataSwapper'
+   -----------------------
+undefined
+   > block number:        10365048
+   > block timestamp:     1647864793
+   > account:             0xfBe29Cc66a5680Fbc0305f3A11369becc78AC945
+   > balance:             0.426684965793800346
+   > gas used:            879983 (0xd6d6f)
+   > gas price:           2.500000021 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002199957518479643 ETH
+
+   -------------------------------------
+   > Total cost:     0.002199957518479643 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.002199957518479643 ETH
+
+
+
+
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 29970705 (0x1c95111)
+
+
+4_swapper.js
+============
+
+   Deploying 'DataSwapper'
+   -----------------------
+   > transaction hash:    0x30fc96cffe20c0360f69e5fa2c97e71abc778df6c0f46bbf305efd3754d40b5e
+undefined
+undefined
+undefined
+undefined
+   > Blocks: 1            Seconds: 16
+   > contract address:    0x31a78C4d79f71fD1fD80fcAAcCc2b5313CF2db5B
+   > block number:        10365054
+   > block timestamp:     1647864814
+   > account:             0xfBe29Cc66a5680Fbc0305f3A11369becc78AC945
+   > balance:             0.416598670696091931
+   > gas used:            879983 (0xd6d6f)
+   > gas price:           2.500000022 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002199957519359626 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.002199957519359626 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.002199957519359626 ETH
+
+
